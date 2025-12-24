@@ -1,7 +1,7 @@
-1122/**
+ /**
  * cron "39 11,19 * * *" FTEJ.js
  * export FTEJ="账号1&密码1 账号2&密码2"
- * export TEXTURL="https://api.btstu.cn/yan/api.php"
+ * export TEXTURL="https://api.btstu.cn/yan/api.phphh"
  */
 const $ = new Env('福田e家')
 const crypto = require('crypto');
